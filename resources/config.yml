@@ -1,0 +1,15 @@
+# Name of the level to randomly warp players to.
+wilderness_level: world
+
+# Center coordinates of the spawn area.
+center_x: 0
+center_z: 0
+
+# Maximum radius from center location where players can spawn.
+radius: 1000
+
+# Enable support for FactionsPro
+enable_FactionsPro_support: false
+
+# Number of times to attempt to find a random spawn location for the player. High numbers can cause lag.
+retry_attempts: 50

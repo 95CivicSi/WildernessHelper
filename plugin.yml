@@ -1,0 +1,9 @@
+main: BreathTakinglyBinary\WildernessHelper\WildernessHelper
+api: 3.9.0
+name: "WildernessHelper"
+version: 1.1.0
+
+author: "FiberglassCivic"
+
+softdepend:
+  - FactionsPro
